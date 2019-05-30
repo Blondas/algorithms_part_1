@@ -1,4 +1,4 @@
-package com.krisdrum.week1;
+package com.krisdrum.week1UnionFind;
 
 public class QuickFindUF {
     private int [] id;
